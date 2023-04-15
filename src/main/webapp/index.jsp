@@ -8,6 +8,6 @@
 <h1><%= "Hello World!, it is my Life"%>
 </h1>
 <br/>
-<a href="hello-servlet">What!!!Who</a>
+<a href="hello-servlet">My name ia Juli!</a>
 </body>
 </html>

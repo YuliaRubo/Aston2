@@ -5,7 +5,7 @@
     <title>JSP - Hello World</title>
 </head>
 <body>
-<h1><%= "Hello World!"%>
+<h1><%= "Hello World! My name is Juli:)"%>
 </h1>
 <br/>
 <a href="hello-servlet">My name ia Juli!</a>
